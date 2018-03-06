@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PenkkiLaskuri</string>
+    <string name="edit_message">Kilomäärä</string>
+    <string name="button_send">Laske</string>
+    <string name="toistot_message">Toistot</string>
+</resources>
